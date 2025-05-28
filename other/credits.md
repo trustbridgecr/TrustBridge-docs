@@ -28,7 +28,7 @@ To contribute:
 1. Fork the repository
 2. Create a feature branch
 3. Submit a pull request with a clear description and evidence
-4. Join our [Discord](https://discord.gg/your-invite) to engage with the community
+4. Join our [Discord](https://discord.com/invite/DsUSE3aMDZ) to engage with the community
 
 ---
 
