@@ -25,5 +25,5 @@ Use the sidebar to navigate through setup guides, API references, and user workf
 
 ---
 
-**Repository:** [TrustBridge GitHub](https://github.com/trustbridgecr/TrustBridge)  
+**Repository:** [TrustBridge GitHub](https://github.com/trustbridgecr)  
 **Support:** Join our community on Discord or open an issue on GitHub.
