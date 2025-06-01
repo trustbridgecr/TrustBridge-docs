@@ -8,7 +8,6 @@ We extend our appreciation to the team behind TrustBridge, whose dedication made
 
 - **Josué Brenes** – CEO & FullStack Developer
 - **Daniel Coto** – FrontEnd Developer
-- **Randall Valenciano** – FullStack Developer
 - **Yuliana Gonzalez** – BackEnd Developer
 
 ---
