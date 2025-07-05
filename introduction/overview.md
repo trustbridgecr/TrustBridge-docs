@@ -1,29 +1,30 @@
-# Overview
+# 1.2 Overview
 
-**TrustBridge** is a decentralized lending platform that leverages blockchain technology to facilitate secure and transparent peer-to-peer microloans.
+📌 **Overview**
 
-## Mission
+TrustBridge is a decentralized peer-to-peer lending platform purpose-built for **Latin America**. It combines the security and transparency of blockchain with a simplified user experience and an on-chain reputation system. TrustBridge empowers real people—freelancers, entrepreneurs, and everyday users—to access and provide microloans without intermediaries, using **Blend** as its core infrastructure.
 
-To empower individuals and communities with direct financial access by removing traditional barriers, fees, and intermediaries through a trustless system.
+## 🎯 Mission
 
-## Vision
+To unlock inclusive financial access across Latin America by removing traditional barriers and enabling trustless, transparent lending between individuals.
 
-To become the leading protocol for decentralized lending in emerging markets, enabling wallet-to-wallet loans with built-in protection mechanisms.
+## 🌍 Vision
 
-## Core Principles
+To become the most trusted protocol for decentralized lending in emerging markets—where users can access wallet-to-wallet loans with clear rules, guaranteed protections, and a path to long-term financial reputation.
 
-- **Transparency:** All transactions and contracts are verifiable on the Stellar blockchain.
-- **Security:** Escrow contracts protect both lenders and borrowers until conditions are met.
-- **Simplicity:** A clean and intuitive interface for users with no prior crypto experience.
-- **Accessibility:** Designed to serve communities with limited access to traditional banking.
+## 🧱 Core Principles
 
-## Components
+- 🔍 **Transparency**: All activity is verifiable on the Stellar blockchain. No black boxes.
+- 🔐 **Security**: Funds are protected through smart escrow contracts and a collective backstop reserve.
+- 🧭 **Simplicity**: Designed for first-time crypto users. Clear UI, no jargon, 100% in Spanish.
+- 🌎 **Accessibility**: Open to any wallet. No KYC, no bureaucracy, no banks.
+- ⭐ **Reputation First**: Responsible behavior is rewarded through the TrustBridge Token (TRBT).
 
-- **User Wallets:** All transactions are executed between non-custodial wallets.
-- **Smart Escrow Contracts:** Automate the loan terms, release funds, and handle disputes.
-- **Milestones:** Loans can be split into phases for increased trust and tracking.
-- **Trustless Work Integration:** Handles approvals, disputes, and workflow coordination.
+## ⚙️ Core Components
 
----
-
-Next: [How TrustBridge Works](how-it-works.md)
+- **User Wallets**: All interactions are non-custodial. You keep control of your funds at all times.
+- **Blend Smart Pools**: Liquidity pools deployed via Blend v2, with automated interest, collateral, and backstop logic.
+- **Backstop Mechanism**: A percentage of deposits and borrower collateral go into a safety reserve to cover defaults.
+- **Reputation System (TRBT Token)**: On-chain score that grows as you use the platform responsibly. Higher scores unlock better pools.
+- **Risk Engine**: Powered by Blend, each pool is evaluated as Low, Medium, or High risk. Pools may be auto-frozen under certain risk thresholds.
+- **Trustless Work (Future Integration)**: A coordination layer for large or milestone-based loans with dispute resolution features.
