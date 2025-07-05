@@ -8,9 +8,9 @@ Welcome to the official documentation for **TrustBridge**, a decentralized lendi
 
 TrustBridge is a peer-to-peer (P2P) lending protocol with its own logic layer, created to solve key financial barriers in emerging markets:
 
-- ❌ Lack of access to traditional credit  
-- ❌ Low trust in centralized lending platforms  
-- ❌ Complexity of DeFi tools for non-technical users  
+- ❌ Lack of access to traditional credit
+- ❌ Low trust in centralized lending platforms
+- ❌ Complexity of DeFi tools for non-technical users
 
 It operates through **smart liquidity pools** where lenders deposit funds and borrowers access loans using collateral. A decentralized reputation system based on the **TrustBridge Token (TRBT)** rewards responsible behavior and unlocks access to more attractive lending terms.
 
@@ -20,7 +20,6 @@ It operates through **smart liquidity pools** where lenders deposit funds and bo
 - 📈 **On-Chain Reputation:** Earn trust over time with TRBT tokens that grant access to higher-tier lending pools.
 - 💬 **User-Friendly UX:** 100% in Spanish, education-focused, and designed for accessibility—not crypto jargon.
 - 🌐 **Fully Transparent:** All lending activity and metrics are publicly verifiable on the Stellar blockchain.
-- ⚙️ **Developer-Ready:** Modular architecture, open APIs, and future-ready for integrations like Trustless Work.
 
 ## Who is it for?
 

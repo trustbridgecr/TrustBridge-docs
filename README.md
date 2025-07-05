@@ -8,20 +8,19 @@ TrustBridge is a protocol designed to empower individuals to request and offer l
 
 ### Key Features
 
-* 🔐 **Secure Escrows** backed by Stellar and Trustless Work
-* 💸 **Direct Lending** between wallets
-* 🌐 **Decentralized & Transparent** operations
-* ⚙️ **Integration-ready** for developers
+- 💸 **Direct Lending** between wallets
+- 🌐 **Decentralized & Transparent** operations
+- ⚙️ **Integration-ready** for developers
 
 ### Who is this for?
 
-* Borrowers looking for fair, crypto-based microloans
-* Lenders interested in earning interest securely
-* Developers and contributors who want to build on or extend the platform
+- Borrowers looking for fair, crypto-based microloans
+- Lenders interested in earning interest securely
+- Developers and contributors who want to build on or extend the platform
 
 Use the sidebar to navigate through setup guides, API references, and user workflows.
 
-***
+---
 
 **Repository:** [TrustBridge GitHub](https://github.com/trustbridgecr)\
 **Support:** Join our community on Discord or open an issue on GitHub.

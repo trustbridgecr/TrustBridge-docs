@@ -27,4 +27,3 @@ To become the most trusted protocol for decentralized lending in emerging market
 - **Backstop Mechanism**: A percentage of deposits and borrower collateral go into a safety reserve to cover defaults.
 - **Reputation System (TRBT Token)**: On-chain score that grows as you use the platform responsibly. Higher scores unlock better pools.
 - **Risk Engine**: Powered by Blend, each pool is evaluated as Low, Medium, or High risk. Pools may be auto-frozen under certain risk thresholds.
-- **Trustless Work (Future Integration)**: A coordination layer for large or milestone-based loans with dispute resolution features.
